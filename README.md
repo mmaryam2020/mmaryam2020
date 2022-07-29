@@ -2,11 +2,11 @@
 
 My name is Maryam. I am a Data Scientist with a demonstrated history of working in interdisciplinary domains, including Natural Language Processing and Machine Learning for social impact.
 
-- 🎓 I have recently graduated from University of Toronto, where I have worked on data science, machine learning, and everything in between.
+- 🎓 I have recently graduated from University of Toronto, where I have worked in data science, machine learning, and everything in between.
 - 🌱 I’m currently learning UI/UX in data science projects.
 - 👯 I’m looking to collaborate on projects that utilize AI for social impact. 
 - 📫 How to reach me:  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/maryammo/)
-- ⚡ Fun fact: I can't imagine life wihout running. 🏃
+- ⚡ Fun fact: I can't imagine life without running. 🏃
 
 ### Languages
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,17 +22,4 @@ My name is Maryam. I am a Data Scientist with a demonstrated history of working 
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
 
-<!--
-**mmaryam2020/mmaryam2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
