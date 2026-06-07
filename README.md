@@ -9,7 +9,6 @@ Writing about it at **[agentdiaries.hexora.ca](https://agentdiaries.hexora.ca)**
 
 | Project | What it does |
 |---|---|
-| [NanoClaw](https://github.com/mmaryam2020/nanoclaw) | AI assistant that runs agents securely in isolated containers |
 | [event_finder](https://github.com/mmaryam2020/event_finder) | Scrapes 10+ Toronto event sources, ranks by relevance, emails a weekly digest |
 | [ActiveLife](https://github.com/mmaryam2020/ActiveLife-Workout-Analytics-Strava-MCP-Server) | Workout analytics suite with a live Strava MCP server |
 | [PhysioFlow](https://github.com/mmaryam2020/PhysioFlow) | Physiotherapy rehab companion for clinicians and patients |
